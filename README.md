@@ -1,7 +1,7 @@
 # task-tracking
 Task Tracking application that can be controlled with the user I created with React.js
 
-It includes the react ui as well as JSON-server for our mock backend.
+It includes the React UI as well as JSON-server for our mock backend.
 
 ## Usage
 
